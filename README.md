@@ -7,3 +7,7 @@ In this project, we will build a machine learning model that predicts which Twee
 
 
 Please find Kaggle submission at - https://www.kaggle.com/code/chli3841/nlp-w-disaster-tweets-lstm
+
+change log 
+- Improved the model with overfitting fixed
+
